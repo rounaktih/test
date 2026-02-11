@@ -5,3 +5,5 @@ Hello everyone, welcome to git fundamentals
 Hi I'm working on feature 1
 
 Working on feature 2
+
+Working directly on github
