@@ -1,3 +1,5 @@
 Hello everyone, welcome to git fundamentals
 
 1st commit has been made
+
+Working on feature 2
