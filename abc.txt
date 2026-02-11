@@ -3,3 +3,5 @@ Hello everyone, welcome to git fundamentals
 1st commit has been made
 
 Hi I'm working on feature 1
+
+Working on feature 2
